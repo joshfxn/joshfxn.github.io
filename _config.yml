@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Testing Resume website
+title: Testing Resume webpage
 description: >- # this means to ignore newlines until "baseurl:"
   Making It Go
-#baseurl: "/main" # the subpath of your site, e.g. /blog
+#baseurl: "https://joshfxn.github.io" # the subpath of your site, e.g. /blog
 url: "https://joshfxn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Joshfxn"
 
-google_analytics: UA-8275694-2
+#google_analytics:
 
 show_excerpts: true
 
