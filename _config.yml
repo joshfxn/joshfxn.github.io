@@ -28,10 +28,7 @@ paginate: 5
 paginate_path: /posts/page:num
 
 header_pages:
- - posts.md
- - code.md
- - error-codes.md
- - about.html
+  - resume.html
 
 # Build settings
 markdown: kramdown
