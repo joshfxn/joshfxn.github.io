@@ -17,7 +17,7 @@ title: Testing Resume Webpage
 description: >- # this means to ignore newlines until "baseurl:"
   Having a go
 #baseurl: "https://joshfxn.github.io" # the subpath of your site, e.g. /blog
-url: "https://joshfxn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://joshfxn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Joshfxn"
 
 #google_analytics:
@@ -52,6 +52,7 @@ disqus:
     shortname: Josh
 
 plugins:
+  - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
 #  - jekyll-include-cache
